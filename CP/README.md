@@ -1,10 +1,15 @@
 # CP - correlated pairs
 ## CP1
-Implement a simple sequential baseline solution. Do not try to use any form of parallelism yet;
-try to make it work correctly first. Please do all arithmetic with double-precision floating point
-numbers.
+Implement a simple **sequential** baseline solution. Do not try to use any form of parallelism yet;
+try to make it work correctly first. Please do all arithmetic with **double-precision**
+floating point numbers.
 
 ## CP2a
+Parallelize your solution to CP1 by exploiting **instruction-level parallelism**.
+Make sure that the performance-critical operations are pipelined efficiently.
+Do not use any other form of parallelism yet in this exercise.
+Please do all arithmetic with **double-precision** floating point numbers.
+
 ## CP2b
 ## CP2c
 ## CP3a
@@ -18,4 +23,5 @@ numbers.
 | Task | Points |     Time | Instr. ( $\times 10^9$ ) | Cycles ( $\times 10^9$ ) |  GHz | Threads |
 |------|--------|----------|--------------------------|--------------------------|------|---------|
 | CP1  |    5/5 |     7.49 |                     80.2 |                     33.6 | 4.48 |    1.00 |
+| CP2a |    3/3 |     4.35 |                     60.2 |                     19.5 | 4.47 |    1.00 |
 
