@@ -7,3 +7,6 @@ any solution that works correctly is fine.
 
 ## Results
 
+| Task |     Time | Instr. ( $\times 10^9$ ) | Cycles ( $\times 10^9$ ) |  GHz | Threads |
+|------|----------|--------------------------|--------------------------|------|---------|
+| Pre0 | 0.001043 |                  0.00251 |                  0.00195 | 1.88 |    0.99 |
