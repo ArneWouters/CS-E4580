@@ -11,6 +11,10 @@ Do not use any other form of parallelism yet in this exercise.
 Please do all arithmetic with **double-precision** floating point numbers.
 
 ## CP2b
+Parallelize your solution to CP1 with the help of **OpenMP and multithreading** so that you are
+exploiting multiple CPU cores in parallel. Do not use any other form of parallelism yet in this
+exercise. Please do all arithmetic with **double-precision** floating point numbers.
+
 ## CP2c
 ## CP3a
 ## CP3b
@@ -24,4 +28,5 @@ Please do all arithmetic with **double-precision** floating point numbers.
 |------|--------|----------|--------------------------|--------------------------|------|---------|
 | CP1  |    5/5 |     7.49 |                     80.2 |                     33.6 | 4.48 |    1.00 |
 | CP2a |    3/3 |     4.35 |                     60.2 |                     19.5 | 4.47 |    1.00 |
+| CP2b |    2/3 |     0.86 |                     24.3 |                     33.7 | 3.84 |    10.2 |
 
