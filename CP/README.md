@@ -28,6 +28,11 @@ instructions whenever possible, and also to optimize the memory access pattern.
 Please do all arithmetic with **double-precision** floating point numbers.
 
 ## CP3b
+Using all resources that you have in the CPU, solve the task **as fast as possible**.
+You are encouraged to exploit instruction-level parallelism, multithreading, and vector
+instructions whenever possible, and also to optimize the memory access pattern.
+In this task, you are permitted to use **single-precision** floating point numbers.
+
 ## CP4
 ## CP5
 ## CP9a
@@ -41,4 +46,5 @@ Please do all arithmetic with **double-precision** floating point numbers.
 | CP2b |    2/3 |     0.86 |                     24.3 |                     33.7 | 3.84 |    10.2 |
 | CP2c |    3/3 |     2.93 |                     12.3 |                     13.1 | 4.46 |    1.00 |
 | CP3a |    3/5 |     5.01 |                      309 |                      353 | 3.75 |    18.8 |
+| CP3b |    4/5 |     1.95 |                      155 |                      134 | 3.73 |    18.4 |
 
