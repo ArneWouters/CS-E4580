@@ -1,1 +1,2 @@
-# CS-E4580
+# Programming Parallel Computers [CS-E4580]
+This repository contains my solutions for the exercises for the CS-E4580 course at Aalto University that is publicly available at [https://ppc.cs.aalto.fi/](https://ppc.cs.aalto.fi/). Instructions and extra files to run the code and benchmarks can be found there in the "Exercises" section. Each folder in this repository contains a README with the benchmarks I achieved with the code.
