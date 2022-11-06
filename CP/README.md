@@ -40,6 +40,9 @@ you can do some lightweight preprocessing and postprocessing also on the CPU.
 In this task, you are permitted to use **single-precision** floating point numbers.
 
 ## CP5
+Using all resources that you have in the **GPU**, solve the task **as fast as possible**.
+In this task, you are permitted to use **single-precision** floating point numbers.
+
 ## CP9a
 
 ## Results
@@ -53,4 +56,5 @@ In this task, you are permitted to use **single-precision** floating point numbe
 | CP3a |    3/5 |     5.01 |                      309 |                      353 | 3.75 |    18.8 |
 | CP3b |    4/5 |     1.95 |                      155 |                      134 | 3.73 |    18.4 |
 |  CP4 |    5/5 |    0.158 |                     1.59 |                     0.70 | 4.40 |    1.00 |
+|  CP5 |   9/10 |     0.69 |                     5.42 |                     2.79 | 4.05 |    1.00 |
 
