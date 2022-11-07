@@ -13,6 +13,8 @@ for only one color channel, and you will also have much less trouble with roundi
 In this task, you are permitted to use **single-precision** floating point numbers.
 
 ## IS6b
+Port your solution to IS6a to the **GPU**; again, make it run **as fast as possible**.
+
 ## IS9a
 
 ## Results
@@ -21,4 +23,5 @@ In this task, you are permitted to use **single-precision** floating point numbe
 |------|--------|----------|--------------------------|--------------------------|------|---------|
 |  IS4 |    4/5 |     2.77 |                      168 |                      135 | 3.77 |    13.0 |
 | IS6a |    4/5 |     1.32 |                     67.7 |                     54.4 | 3.69 |    11.2 |
+| IS6b |    4/5 |     1.39 |                     15.3 |                     6.19 | 4.46 |    1.00 |
 
